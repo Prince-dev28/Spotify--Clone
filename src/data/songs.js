@@ -101,7 +101,7 @@ export const sections = [
             },
             {
                 title: "Teri Yaadein",
-                artist: "Yo Yo Honey Singh, Grini",
+                artist: "Darshan Raval",
                 cover: "/images/Nafrat.jpg",
                 src: "/songs/Nafrat Official Music Video  Darshan Raval  Sandipa D  Akshay K  Naushad Khan  Indie Music - Indie Music Label.mp3"
             }
