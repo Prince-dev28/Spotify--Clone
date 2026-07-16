@@ -73,7 +73,7 @@ export const sections = [
         ]
     },
     {
-        title: "Favorite Songs",
+        title: "favourite Songs",
         songs: [
             {
                 title: "Soch Na Sake",
