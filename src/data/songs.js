@@ -100,7 +100,7 @@ export const sections = [
                 src: "/songs/Lyrical Uska Hi Banana  1920 Evil Returns  Arijit Singh  Aftab Shivdasani, Tia Bajpai - T-Series.mp3"
             },
             {
-                title: "Teri Yaadein",
+                title: "Nafrat",
                 artist: "Darshan Raval",
                 cover: "/images/Nafrat.jpg",
                 src: "/songs/Nafrat Official Music Video  Darshan Raval  Sandipa D  Akshay K  Naushad Khan  Indie Music - Indie Music Label.mp3"
