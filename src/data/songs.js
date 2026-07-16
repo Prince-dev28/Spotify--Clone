@@ -9,7 +9,7 @@ export const sections = [
                 title: "Kya Kar Diya",
                 artist: "Vishal Mishra",
                 cover: "/images/kya kar diya.webp",
-                src: "/songs/Kaise haste the hum kaise rone lage, haal kya kar diya ye tere pyar ne, vishal mishra, umar riaz - Wardaat Music.mp3"
+                src: "/songs/Kya Kar Diya (Official Video) Vishal Mishra  Jasmin Bhasin, Umar Riaz  Kaushal K  VYRL Originals - Universal Music India.mp3"
             },
             {
                 title: "SAIYARA",
@@ -102,8 +102,8 @@ export const sections = [
             {
                 title: "Teri Yaadein",
                 artist: "Yo Yo Honey Singh, Grini",
-                cover: "/images/teri yaadein.jpeg",
-                src: "/songs/teri yaadein.mp3"
+                cover: "/images/Nafrat.jpg",
+                src: "/songs/Nafrat Official Music Video  Darshan Raval  Sandipa D  Akshay K  Naushad Khan  Indie Music - Indie Music Label.mp3"
             }
         ]
     }
